@@ -1,2 +1,2 @@
 # Brainrot-Website
-My first website that not using framework
+Website Gajelas. Buat Testing Doang
